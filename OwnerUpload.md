@@ -4,7 +4,7 @@
 <p align=center><img src="Jiaoqiu.png"></p>
 
 <p align=center>Sunday Poster</p>
-<p align=center><img src="sunday_postee.jpg"></p>
+<p align=center><img src="sunday_poster.jpg"></p>
 
 <p align=center>Sunday PV</p>
 <p align=center><img src="sunday_pv.jpg"></p>
