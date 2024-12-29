@@ -3,6 +3,12 @@
 <p align=center>Jiaoqiu</p>
 <p align=center><img src="Jiaoqiu.png"></p>
 
+<p align=center>Sunday Poster</p>
+<p align=center><img src="sunday_postee.jpg"></p>
+
+<p align=center>Sunday PV</p>
+<p align=center><img src="sunday_pv.jpg"></p>
+
 <p align=center>Artem V1 | Zuo Ran V1</p>
 <p align=center><img src="Artem1.jpg"></p>
 
